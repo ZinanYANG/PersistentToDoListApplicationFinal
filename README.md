@@ -19,4 +19,11 @@
 </li>
 </ul>
 
-<p> <bold>Key Technologies</bold>: Node.js, Express, PostgreSQL, EJS, JavaScript, HTML/CSS.</p>
+<p> <strong>Key Technologies</strong>: Node.js, Express, PostgreSQL, EJS, JavaScript, HTML/CSS.</p>
+<p>Outcome:</p>
+<ul>
+  <li>Successfully created a fully-functional to-do list application with a user-friendly interface and persistent data storage, demonstrating proficiency in full-stack development and database integration.
+</li>
+  <li>Achieved streamlined user interactions with the application through effective use of client-side JavaScript for real-time content manipulation.
+</li>
+</ul>
